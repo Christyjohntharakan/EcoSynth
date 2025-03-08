@@ -16,9 +16,9 @@ The official template repository for Define 3.0
 ### Team Members
 | Name | Role | GitHub | LinkedIn |
 |------|------|--------|----------|
-| [Abiya DS] | [Role] | [@username](https://github.com/username) | [Profile](https://linkedin.com/in/username) |
+| [Abiya DS] | [Role] | [@username](https://github.com/abiyads) | [Profile](https://www.linkedin.com/in/abiya-d-s-74977430a/) |
 | [Christy John Tharakan] | [Role] | [@username](https://github.com/username) | [Profile](https://linkedin.com/in/username) |
-| [Gowri Ajay] | [Role] | [@username](https://github.com/username) | [Profile](https://linkedin.com/in/username) |
+| [Gowri Ajay] | [Role] | [@username](https://github.com/gowri-ajai25) | [Profile](www.linkedin.com/in/gowri-ajai-b037512b7) |
 | [Megha.V] | [Role] | [@username](https://github.com/meghav2005) | [Profile](https://www.linkedin.com/in/
 megha-vijay2005) |
 
