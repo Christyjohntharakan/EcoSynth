@@ -24,7 +24,7 @@ The official template repository for Define 3.0
 ## Project Details
 
 ### Overview
-_Your project uses Raman spectroscopy and AI to detect adulterants in herbal medicine. The AI model analyzes spectroscopic data to ensure authenticity and safety._
+_ project uses Raman spectroscopy and AI to detect adulterants in herbal medicine. The AI model analyzes spectroscopic data to ensure authenticity and safety._
 
 ### Problem Statement
 _Adulteration in herbal medicine poses serious health risks and compromises medicinal efficacy. Traditional detection methods are time-consuming and may lack precision. This project aims to develop an AI-powered system using Raman spectroscopy to efficiently detect and identify adulterants, ensuring the authenticity and safety of herbal medicines._
@@ -46,7 +46,7 @@ _Replace VIDEO_ID with your YouTube video ID or provide an alternative demo link
 - **Frontend**: [React.js]
 - **Backend**: [FlaskAPI]
 - **Database**: [spectral dataset]
-- **APIs**: [Technologies]
+- **APIs**: [Flask]
 - **DevOps**: [Technologies]
 - **Other Tools**: [pandas,numpy,scikit]
 
@@ -58,9 +58,9 @@ _Replace VIDEO_ID with your YouTube video ID or provide an alternative demo link
 ## Setup Instructions
 
 ### Prerequisites
-- Requirement 1
-- Requirement 2
-- Requirement 3
+-Raman Spectroscopy Knowledge 
+-Machine Learning & AI Skills 
+-Herbal Adulteration Awareness
 
 ### Installation 
 ```bash
@@ -75,13 +75,25 @@ _Replace VIDEO_ID with your YouTube video ID or provide an alternative demo link
 ## Additional Resources
 
 ### Project Timeline
-_Brief overview of your development process and milestones_
+_ Hour 1-3: Research & Planning
+Hour 4-8: Data Collection & Preprocessing
+Hour 9-14: Model Development & Training
+ Hour 15-18: System Integration & Testing
+ Hour 19-22: Final Optimization & Debugging
+ Hour 23-24: Presentation & Submission_
 
 ### Challenges Faced
-_Discuss technical challenges and how you overcame them_
+_ Limited Dataset for Raman Spectroscopy
+Choosing the Right ML Model
+Time Constraints in Model Training
+Connecting the AI model with a simple user interface for real-time adulterant detection.
+_
 
 ### Future Enhancements
-_Share your vision for future development_
+_Expanded Dataset & Real-World Testing
+Improvised Data Preprocessing Techniques
+ Improved AI Model for Higher Accuracy
+ Faster & More Scalable System_
 
 ### References (if any)
 - [Reference 1](link)
