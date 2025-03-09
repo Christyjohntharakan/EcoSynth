@@ -10,8 +10,8 @@ The official template repository for Define 3.0
  
 
 ### Team Information
-- **Team Name**: <EcoSynth> 
-- **Track**: < AYUSH >
+- **Team Name**: EcoSynth
+- **Track**: AYUSH 
 
 ### Team Members
 | Name | Role | GitHub | LinkedIn |
