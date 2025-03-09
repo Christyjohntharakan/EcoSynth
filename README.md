@@ -16,10 +16,10 @@ The official template repository for Define 3.0
 ### Team Members
 | Name | Role | GitHub | LinkedIn |
 |------|------|--------|----------|
-| [Full Name] | [Frontend] | [@username](https://github.com/username) | [Profile](https://linkedin.com/in/username) |
-| [Full Name] | [Frontend and Backend Developer] | [@username](https://github.com/username) | [Profile](https://linkedin.com/in/username) |
-| [Full Name] | [Data Handling and Model Training] | [@username](https://github.com/username) | [Profile](https://linkedin.com/in/username) |
-| [Full Name] | [Frontend] | [@username](https://github.com/username) | [Profile](https://linkedin.com/in/username) |
+| [Abiya DS] | [Frontend] | [@username](https://github.com/abiyads) | [Profile](https://www.linkedin.com/in/abiya-d-s-74977430a/) |
+| [Christy John Tharakan] | [Frontend and Backend Developer] | [@username](https://github.com/christyjohntharakan) | [Profile](https://www.linkedin.com/in/christy-john-tharakan-3327a92b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) |
+| [Gowri Ajay] | [Data Handling and Model Training] | [@username](https://github.com/gowri-ajai25) | [Profile](www.linkedin.com/in/gowri-ajai-b037512b7) |
+| [Megha.V] | [Frontend] | [@username](https://github.com/meghav2005) | [Profile](https://www.linkedin.com/in/megha-vijay2005?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
 
 ## Project Details
 
