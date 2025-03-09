@@ -106,7 +106,7 @@ Cloud-Based & IoT Integration_
 
 ### References (if any)
 - [Reference 1](https://www.kaggle.com/datasets)
-- [Reference 2](link)
+
 
 ---
 
