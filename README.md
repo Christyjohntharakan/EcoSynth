@@ -6,12 +6,12 @@ The official template repository for Define 3.0
 
 
 
-# < Project Name >
+# < HerboScan >
  Cover Image  If applicable
 
 ### Team Information
-- **Team Name**: <Team Name> 
-- **Track**: < Track >
+- **Team Name**: <EcoSynth> 
+- **Track**: < AYUSH >
 
 ### Team Members
 | Name | Role | GitHub | LinkedIn |
