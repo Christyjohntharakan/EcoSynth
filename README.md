@@ -24,13 +24,13 @@ The official template repository for Define 3.0
 ## Project Details
 
 ### Overview
-_A concise summary of your project (2-3 sentences)_
+_Our project utilizes Raman spectroscopy and AI to detect adulterants in herbal medicines, ensuring product authenticity and safety. By leveraging machine learning models, we analyze spectral data to differentiate between pure and adulterated samples. This system provides a fast, accurate, and automated solution for quality control in the herbal medicine industry._
 
 ### Problem Statement
-_Describe the problem your project aims to solve_
+_Adulteration in herbal medicines poses serious health risks and reduces the efficacy of treatments, making it difficult for consumers to trust product authenticity. Traditional methods for detecting adulterants are time-consuming, expensive, and require specialized expertise. Our project leverages Raman spectroscopy and AI to provide a fast, accurate, and automated solution for identifying adulterants, ensuring the safety and quality of herbal products._
 
 ### Solution
-_Explain your approach to solving the problem_
+_Our project combines Raman spectroscopy and AI-driven machine learning models to detect adulterants in herbal medicines efficiently. The system works by analyzing Raman spectral data, preprocessing it to remove noise, and feeding it into a trained ML model  for classification. This approach ensures fast, non-destructive, and highly accurate adulteration detection, providing a cost-effective and scalable solution for quality control in the herbal medicine industry._
 
 ### Demo
 [![Project Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
