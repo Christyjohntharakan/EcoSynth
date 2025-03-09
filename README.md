@@ -16,10 +16,10 @@ The official template repository for Define 3.0
 ### Team Members
 | Name | Role | GitHub | LinkedIn |
 |------|------|--------|----------|
-| [Abiya DS] | [Role] | [@username](https://github.com/abiyads) | [Profile](https://www.linkedin.com/in/abiya-d-s-74977430a/) |
-| [Christy John Tharakan] | [Role] | [@username](https://github.com/Christyjohntharakan) | [Profile](https://linkedin.com/in/christy_john_tharakan) |
-| [Gowri Ajay] | [Role] | [@username](https://github.com/gowri-ajai25) | [Profile](https://www.linkedin.com/in/gowri-ajai-b037512b7) |
-| [Megha.V] | [Role] | [@username](https://github.com/meghav2005) | [Profile](https://www.linkedin.com/in/megha-vijay2005) |
+| [Abiya DS] | [Role] | [Frontend ](https://github.com/abiyads) | [Profile](https://www.linkedin.com/in/abiya-d-s-74977430a/) |
+| [Christy John Tharakan] | [Frontend&Backend Developer] | [@username](https://github.com/Christyjohntharakan) | [Profile](https://linkedin.com/in/christy_john_tharakan) |
+| [Gowri Ajay] | [Role] | [Data Handling and Model Training](https://github.com/gowri-ajai25) | [Profile](https://www.linkedin.com/in/gowri-ajai-b037512b7) |
+| [Megha.V] | [Role] | [Frontend ](https://github.com/meghav2005) | [Profile](https://www.linkedin.com/in/megha-vijay2005) |
 
 ## Project Details
 
@@ -29,7 +29,7 @@ _ project uses Raman spectroscopy and AI to detect adulterants in herbal medicin
 ### Problem Statement
 _Adulteration in herbal medicine poses serious health risks and compromises medicinal efficacy. Traditional detection methods are time-consuming and may lack precision. This project aims to develop an AI-powered system using Raman spectroscopy to efficiently detect and identify adulterants, ensuring the authenticity and safety of herbal medicines._
 
-### Solution
+ Solution
 _The AI model processes spectroscopic data to detect and classify adulterants accurately. By automating and enhancing adulteration detection, the system ensures faster, more reliable, and non-destructive quality control, improving the safety and authenticity of herbal medicines.
 _
 
