@@ -16,10 +16,10 @@ The official template repository for Define 3.0
 ### Team Members
 | Name | Role | GitHub | LinkedIn |
 |------|------|--------|----------|
-| [Abiya DS] | [Role] | [Frontend ](https://github.com/abiyads) | [Profile](https://www.linkedin.com/in/abiya-d-s-74977430a/) |
-| [Christy John Tharakan] | [Frontend&Backend Developer] | [@username](https://github.com/Christyjohntharakan) | [Profile](https://linkedin.com/in/christy_john_tharakan) |
-| [Gowri Ajay] | [Role] | [Data Handling and Model Training](https://github.com/gowri-ajai25) | [Profile](https://www.linkedin.com/in/gowri-ajai-b037512b7) |
-| [Megha.V] | [Role] | [Frontend ](https://github.com/meghav2005) | [Profile](https://www.linkedin.com/in/megha-vijay2005) |
+| [Abiya DS] | [Frontend ]|(https://github.com/abiyads) | (https://www.linkedin.com/in/abiya-d-s-74977430a/) |
+| [Christy John Tharakan] | [Frontend&Backend Developer] | (https://github.com/Christyjohntharakan) | (https://linkedin.com/in/christy_john_tharakan) |
+| [Gowri Ajay]  | [Data Handling and Model Training]|(https://github.com/gowri-ajai25) |(https://www.linkedin.com/in/gowri-ajai-b037512b7) |
+| [Megha.V] | [Frontend ]|(https://github.com/meghav2005) | (https://www.linkedin.com/in/megha-vijay2005) |
 
 ## Project Details
 
