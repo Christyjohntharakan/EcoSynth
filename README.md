@@ -42,24 +42,24 @@ _Replace VIDEO_ID with your YouTube video ID or provide an alternative demo link
 ## Technical Implementation
 
 ### Technologies Used
-- **Frontend**: [Technologies]
-- **Backend**: [Technologies]
-- **Database**: [Technologies]
-- **APIs**: [Technologies]
+- **Frontend**: [React]
+- **Backend**: [FlaskAPI]
+- **Database**: [pandas,numpy,scikit]
+- **APIs**: [Flask]
 - **DevOps**: [Technologies]
 - **Other Tools**: [Technologies]
 
 ### Key Features
-- Feature 1
-- Feature 2
-- Feature 3
+- •	Raman Spectroscopy-Based Sample Analysis
+- •	AI-Powered Adulteration Detection & Classification
+- •	Real-Time & User-Friendly Detection System
 
 ## Setup Instructions
 
 ### Prerequisites
-- Requirement 1
-- Requirement 2
-- Requirement 3
+-Knowledge of Raman Spectroscopy
+-Machine Learning & AI Expertise
+-Data Preprocessing Techniques 
 
 ### Installation 
 ```bash
@@ -74,13 +74,25 @@ _Replace VIDEO_ID with your YouTube video ID or provide an alternative demo link
 ## Additional Resources
 
 ### Project Timeline
-_Brief overview of your development process and milestones_
+_Hour 1-3: Research & Planning
+ Hour 4-8: Data Collection & Preprocessing
+ Hour 9-14: AI Model Development & Training
+ Hour 15-18: Front-End & Back-End Development
+ Hour 19-22: Testing & Optimization
+ Hour 23-24: Final Touches & Presentation_
 
 ### Challenges Faced
-_Discuss technical challenges and how you overcame them_
+_Data Preprocessing Complexity
+Limited Dataset for Model Training
+Model Accuracy & Processing Time
+Front-End & Back-End Integration
+Time Constraint_
 
 ### Future Enhancements
-_Share your vision for future development_
+_More big dataset
+Advanced Data Preprocessing
+Improved AI Model & Accuracy
+Cloud-Based & IoT Integration_
 
 ### References (if any)
 - [Reference 1](link)
