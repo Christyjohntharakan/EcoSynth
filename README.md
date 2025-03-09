@@ -1,114 +1,70 @@
+# Getting Started with Create React App
 
-# Define 3.0
-The official template repository for Define 3.0
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![DefineHack 2025 Logo](https://github.com/user-attachments/assets/8173bc16-418e-4912-b500-c6427e4ba4b6)
+## Available Scripts
 
+In the project directory, you can run:
 
+### `npm start`
 
-# < HerboScan-AI-Driven Prediction of Adulteration in Ayurvedic Herbs for Sustainable and Ethical Sourcing. >
- 
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### Team Information
-- **Team Name**: EcoSynth
-- **Track**: AYUSH 
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-### Team Members
-| Name | Role | GitHub | LinkedIn |
-|------|------|--------|----------|
-| [Abiya DS] | [Frontend ]|(https://github.com/abiyads) |(https://www.linkedin.com/in/abiya-d-s-74977430a/) |
-| [Christy John Tharakan] | [Frontend&Backend Developer] | (https://github.com/Christyjohntharakan)|(https://linkedin.com/in/christy_john_tharakan) |
-| [Gowri Ajay]  | [Data Handling and Model Training]|(https://github.com/gowri-ajai25) | [Profile](https://www.linkedin.com/in/gowri-ajai-b037512b7) |
-| [Megha.V] | [Frontend ]|(https://github.com/meghav2005) |(https://www.linkedin.com/in/megha-vijay2005) |
+### `npm test`
 
-## Project Details
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### Overview
-_ project uses Raman spectroscopy and AI to detect adulterants in herbal medicine. The AI model analyzes spectroscopic data to ensure authenticity and safety._
+### `npm run build`
 
-### Problem Statement
-_Adulteration in herbal medicine poses serious health risks and compromises medicinal efficacy. Traditional detection methods are time-consuming and may lack precision. This project aims to develop an AI-powered system using Raman spectroscopy to efficiently detect and identify adulterants, ensuring the authenticity and safety of herbal medicines._
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
- Solution
-_The AI model processes spectroscopic data to detect and classify adulterants accurately. By automating and enhancing adulteration detection, the system ensures faster, more reliable, and non-destructive quality control, improving the safety and authenticity of herbal medicines.
-_
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-### Demo
-[![Project Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
-_Replace VIDEO_ID with your YouTube video ID or provide an alternative demo link_
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### Live Project
-[Project Name](https://your-project-url.com)
+### `npm run eject`
 
-## Technical Implementation
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-### Technologies Used
-- **Frontend**: [React.js]
-- **Backend**: [FlaskAPI]
-- **Database**: [spectral dataset]
-- **APIs**: [Flask]
-- **DevOps**: [Technologies]
-- **Other Tools**: [pandas,numpy,scikit]
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-### Key Features
-- Raman Spectroscopy-Based Sample Analysis
-- AI-Powered Adulteration Detection & Classification
-- Real-Time & User-Friendly Detection System
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-## Setup Instructions
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-### Prerequisites
--Raman Spectroscopy Knowledge 
--Machine Learning & AI Skills 
--Herbal Adulteration Awareness
+## Learn More
 
-### Installation 
-```bash
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-```
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Running the Project
-```bash
+### Code Splitting
 
-```
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-## Additional Resources
+### Analyzing the Bundle Size
 
-### Project Timeline
-_ Hour 1-3: Research & Planning
-Hour 4-8: Data Collection & Preprocessing
-Hour 9-14: Model Development & Training
- Hour 15-18: System Integration & Testing
- Hour 19-22: Final Optimization & Debugging
- Hour 23-24: Presentation & Submission_
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Challenges Faced
-_ Limited Dataset for Raman Spectroscopy
-Choosing the Right ML Model
-Time Constraints in Model Training
-Connecting the AI model with a simple user interface for real-time adulterant detection.
-_
+### Making a Progressive Web App
 
-### Future Enhancements
-_Expanded Dataset & Real-World Testing
-Improvised Data Preprocessing Techniques
- Improved AI Model for Higher Accuracy
- Faster & More Scalable System_
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### References (if any)
-- [Reference 1](link)
-- [Reference 2](link)
+### Advanced Configuration
 
----
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Submission Checklist
-- [ ] Completed all sections of this README
-- [ ] Added project demo video
-- [ ] Provided live project link
-- [ ] Ensured all team members are listed
-- [ ] Included setup instructions
-- [ ] Submitted final code to repository
+### Deployment
 
----
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-© Define 3.0 | [Define 3.0](https://www.define3.xyz/)
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
