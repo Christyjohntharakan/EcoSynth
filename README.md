@@ -51,9 +51,9 @@ _Replace VIDEO_ID with your YouTube video ID or provide an alternative demo link
 - **Other Tools**: [pandas,numpy,scikit]
 
 ### Key Features
-- Feature 1
-- Feature 2
-- Feature 3
+- Raman Spectroscopy-Based Sample Analysis
+- AI-Powered Adulteration Detection & Classification
+- Real-Time & User-Friendly Detection System
 
 ## Setup Instructions
 
