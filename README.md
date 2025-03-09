@@ -62,12 +62,22 @@ _Replace VIDEO_ID with your YouTube video ID or provide an alternative demo link
 -Data Preprocessing Techniques 
 
 ### Installation 
-```bash
+```
+pip install pandas
+pip install numpy
+pip install scikit-learn
+pip install joblib
+pip install matplotlib
+npm install react-router-dom
+
 
 ```
 
 ### Running the Project
-```bash
+```
+
+npm start
+python app.py
 
 ```
 
