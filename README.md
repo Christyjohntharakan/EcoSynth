@@ -27,7 +27,7 @@ The official template repository for Define 3.0
 _Our project utilizes Raman spectroscopy and AI to detect adulterants in herbal medicines, ensuring product authenticity and safety. By leveraging machine learning models, we analyze spectral data to differentiate between pure and adulterated samples. This system provides a fast, accurate, and automated solution for quality control in the herbal medicine industry._
 
 ### Problem Statement
-_Adulteration in herbal medicines poses serious health risks and reduces the efficacy of treatments, making it difficult for consumers to trust product authenticity. Traditional methods for detecting adulterants are time-consuming, expensive, and require specialized expertise. Our project leverages Raman spectroscopy and AI to provide a fast, accurate, and automated solution for identifying adulterants, ensuring the safety and quality of herbal products._
+_Adulteration of medicinal herbs is becoming a bigger problem, reducing their effectiveness and safety for people. This not only creates health risks but also encourages unsustainable harvesting practices, as demand for high-quality herbs rises, making environmental and ethical issues worse._
 
 ### Solution
 _Our project combines Raman spectroscopy and AI-driven machine learning models to detect adulterants in herbal medicines efficiently. The system works by analyzing Raman spectral data, preprocessing it to remove noise, and feeding it into a trained ML model  for classification. This approach ensures fast, non-destructive, and highly accurate adulteration detection, providing a cost-effective and scalable solution for quality control in the herbal medicine industry._
